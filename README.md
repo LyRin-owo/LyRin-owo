@@ -1,4 +1,4 @@
-<!--markdownlint-disable MD028 MD033 MD036 MD041-->
+<!--markdownlint-disable MD028 MD033 MD036 MD041 MD045-->
 
 <div align="center">
 该 README 是 <a href="https://github.com/LyCecilion">@一般通过绫音酱_Cecilion</a> 的自我介绍。<br>
@@ -44,6 +44,25 @@
 
 ![文中分隔线 2](assets/division_line_2.png)
 
+## 统计数据
+
+> [!WARNING]
+> 由于绫音与家人共用登录了绫音网易云音乐账号的小爱音箱，因此「绫音最近在听」的网易云统计数据**极有可能**是不准确的，位于列表的部分歌曲可能并不是绫音播放的。~~这一点可以通过绫音的歌品进行判断。~~
+
+<div align="center">
+
+![绫音最近在听](https://netease-recent-profile.vercel.app/?id=619384556&type=1&show_percent=1&column=2&number=10&title=%E7%BB%AB%E9%9F%B3%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&size=60)
+
+![绫音的 GitHub 统计数据！](https://github-readme-stats.vercel.app/api?username=LyCecilion&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&custom_title=绫音的%20GitHub%20统计数据！&number_format=long&theme=gradient)
+
+![LyCecilion's Trophy](https://github-profile-trophy.vercel.app/?username=LyCecilion)
+
+![LyCecilion's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LyCecilion)
+
+![LyCecilion's Metrics](/github-metrics.svg)
+
+</div>
+
 ## 一些文学创作
 
 ### [随笔](subfiles/essays.md)
@@ -86,7 +105,7 @@
 - [x] 本人的立场和理念，以及曾经和当下写的杂文和评论
 - [ ] 原创角色 (OC) 和轻小说，以及衍生作品（可做成沉浸式体验）
 - [ ] 个人简历，包括「彼方赴尘」「雾色深海」「绫(零)音」「silentcloudburst」的一切
-- [ ] GitHub 统计数据，包括 WakaTime 等工具的
+- [ ] 统计数据，包括 GitHub 上的活跃程度和音乐 app 的最近喜爱等
 - [ ] 一些兴趣爱好（音游、运动）和个人的研究（好歹也是一个对数学物理比较热爱的人）
 - [ ] 我所有可爱的朋友们！（想用 README 记录下与自己每一位朋友的日常）
 - [ ] 我在用的设备，软件，和看好并支持的开源软件 ~~(awesome_lycecilion)(bushi)~~
@@ -119,7 +138,7 @@
 </div>
 
 <div align="center">
-
+<!--markdownlint-disable-next-line MD001-->
 #### ⭐ 广告位 - 优秀开源项目友情推荐 - [不感兴趣？](https://dxy.com/disease/26233/detail "很抱歉为你造成不好的浏览体验，点击这里以联系我们更换广告。") ⭐
 
 # <a href="https://github.com/ClassIsland/ClassIsland"><image src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="25"/> ClassIsland</a>
