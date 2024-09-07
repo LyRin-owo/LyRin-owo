@@ -1,59 +1,6 @@
 <!--markdownlint-disable MD028 MD033 MD036 MD041-->
 
 <div align="center">
-
-#### ⭐ 广告位 - 优秀开源项目友情推荐 - [不感兴趣？](https://dxy.com/disease/26233/detail "很抱歉为你造成不好的浏览体验，点击这里以联系我们更换广告。") ⭐
-
-# <a href="https://github.com/ClassIsland/ClassIsland"><image src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="25"/> ClassIsland</a>
-
-神奇的 ClassIsland 小工具会将下课铃声和可视化提醒融为一体这不神奇吗<br>[点击的链接 ClassIsland Releases 获取一个获取一个获取一个](https://github.com/ClassIsland/ClassIsland/releases)
-
-<img src="https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4" alt="ClassIsland 广告位头图" style="zoom:25%;" /><br>
-
-✨ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。✨
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/ClassIsland/ClassIsland)
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/ClassIsland/ClassIsland/latest)
-![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/ClassIsland/ClassIsland)
-![GitHub Created At](https://img.shields.io/github/created-at/ClassIsland/ClassIsland)
-![GitHub last commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland)
-![GitHub Release Date](https://img.shields.io/github/release-date-pre/ClassIsland/ClassIsland)
-![GitHub language count](https://img.shields.io/github/languages/count/ClassIsland/ClassIsland)
-![GitHub top language](https://img.shields.io/github/languages/top/ClassIsland/ClassIsland)
-![GitHub branch status](https://img.shields.io/github/checks-status/ClassIsland/ClassIsland/dev)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ClassIsland/ClassIsland/total)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ClassIsland/ClassIsland)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/ClassIsland/ClassIsland)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/ClassIsland/ClassIsland)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/ClassIsland/ClassIsland)
-![GitHub number of milestones](https://img.shields.io/github/milestones/all/ClassIsland/ClassIsland)
-![GitHub License](https://img.shields.io/github/license/ClassIsland/ClassIsland)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fclassisland.tech%2F)
-![GitHub Discussions](https://img.shields.io/github/discussions/ClassIsland/ClassIsland)
-![GitHub repo size](https://img.shields.io/github/repo-size/ClassIsland/ClassIsland)
-![GitHub followers](https://img.shields.io/github/followers/ClassIsland)
-![GitHub forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland)
-![GitHub Repo stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland)
-![GitHub watchers](https://img.shields.io/github/watchers/ClassIsland/ClassIsland)
-![GitHub Release](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?include_prereleases)
-
-![GitHub search hit counter](https://img.shields.io/github/search/ClassIsland/ClassIsland/DryIce)
-![GitHub search hit counter](https://img.shields.io/github/search/ClassIsland/ClassIsland/LyCecilion)
-
-![All the contributors are the kawaiiest in the world](https://img.shields.io/badge/All%20the%20contributors-are%20the%20kawaiiest%20in%20the%20world-green)
-
-<!--markdownlint-disable-next-line MD001-->
-##### [🥳 观看介绍视频，快速了解 1.5 版本突破创新 🥵](https://www.bilibili.com/video/BV1EEsNeYEc9)
-
-#### [💻 ClassIsland 网站](https://classisland.tech/) | [📚 ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/) | [🐧 QQ 群 958840932](https://qm.qq.com/q/4NsDQKiAuQ)
-
-#### ⭐ 广告位 - 终止行 ⭐
-
-</div>
-
----
-
-<div align="center">
 该 README 是 <a href="https://github.com/LyCecilion">@一般通过绫音酱_Cecilion</a> 的自我介绍。<br>
 </div>
 
@@ -168,5 +115,56 @@
 很感谢你看到这里！ (\*/ω＼\*) 无论如何，祝愿你能够天天开心，永远幸福快乐下去！
 
 ![绫音的 GitHub Profile 头图](assets/profile_banner.png)
+
+</div>
+
+<div align="center">
+
+#### ⭐ 广告位 - 优秀开源项目友情推荐 - [不感兴趣？](https://dxy.com/disease/26233/detail "很抱歉为你造成不好的浏览体验，点击这里以联系我们更换广告。") ⭐
+
+# <a href="https://github.com/ClassIsland/ClassIsland"><image src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="25"/> ClassIsland</a>
+
+神奇的 ClassIsland 小工具会将下课铃声和可视化提醒融为一体这不神奇吗<br>[点击的链接 ClassIsland Releases 获取一个获取一个获取一个](https://github.com/ClassIsland/ClassIsland/releases)
+
+<img src="https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4" alt="ClassIsland 广告位头图" style="zoom:25%;" /><br>
+
+✨ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。✨
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/ClassIsland/ClassIsland)
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/ClassIsland/ClassIsland/latest)
+![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/ClassIsland/ClassIsland)
+![GitHub Created At](https://img.shields.io/github/created-at/ClassIsland/ClassIsland)
+![GitHub last commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland)
+![GitHub Release Date](https://img.shields.io/github/release-date-pre/ClassIsland/ClassIsland)
+![GitHub language count](https://img.shields.io/github/languages/count/ClassIsland/ClassIsland)
+![GitHub top language](https://img.shields.io/github/languages/top/ClassIsland/ClassIsland)
+![GitHub branch status](https://img.shields.io/github/checks-status/ClassIsland/ClassIsland/dev)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ClassIsland/ClassIsland/total)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ClassIsland/ClassIsland)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/ClassIsland/ClassIsland)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/ClassIsland/ClassIsland)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/ClassIsland/ClassIsland)
+![GitHub number of milestones](https://img.shields.io/github/milestones/all/ClassIsland/ClassIsland)
+![GitHub License](https://img.shields.io/github/license/ClassIsland/ClassIsland)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fclassisland.tech%2F)
+![GitHub Discussions](https://img.shields.io/github/discussions/ClassIsland/ClassIsland)
+![GitHub repo size](https://img.shields.io/github/repo-size/ClassIsland/ClassIsland)
+![GitHub followers](https://img.shields.io/github/followers/ClassIsland)
+![GitHub forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland)
+![GitHub Repo stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland)
+![GitHub watchers](https://img.shields.io/github/watchers/ClassIsland/ClassIsland)
+![GitHub Release](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?include_prereleases)
+
+![GitHub search hit counter](https://img.shields.io/github/search/ClassIsland/ClassIsland/DryIce)
+![GitHub search hit counter](https://img.shields.io/github/search/ClassIsland/ClassIsland/LyCecilion)
+
+![All the contributors are the kawaiiest in the world](https://img.shields.io/badge/All%20the%20contributors-are%20the%20kawaiiest%20in%20the%20world-green)
+
+<!--markdownlint-disable-next-line MD001-->
+##### [🥳 观看介绍视频，快速了解 1.5 版本突破创新 🥵](https://www.bilibili.com/video/BV1EEsNeYEc9)
+
+#### [💻 ClassIsland 网站](https://classisland.tech/) | [📚 ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/) | [🐧 QQ 群 958840932](https://qm.qq.com/q/4NsDQKiAuQ)
+
+#### ⭐ 广告位 - 终止行 ⭐
 
 </div>
