@@ -1,0 +1,124 @@
+name: 模考成绩更新
+description: 该 Issue 模板将自动拉起对应的 Workflow 以更新成绩。
+title: "[模考成绩更新]: "
+labels: ["模考成绩更新"]
+assignees:
+  - LyCecilion
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 考试名称
+      description: 考试名称
+    validations:
+      required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: 考试日期
+      description: 考试日期（以 YYYY/MM/DD 的格式）
+    validations:
+      required: true
+
+  - type: input
+    id: chn-score
+    attributes:
+      label: 语文考试成绩
+      description: 语文考试成绩
+      placeholder: 150
+    validations:
+      required: true
+
+  - type: input
+    id: chn-rank
+    attributes:
+      label: 语文考试排名
+      description: 语文考试排名
+    validations:
+      required: true
+
+  - type: input
+    id: mth-score
+    attributes:
+      label: 数学考试成绩
+      description: 数学考试成绩
+      placeholder: 150
+    validations:
+      required: true
+
+  - type: input
+    id: mth-rank
+    attributes:
+      label: 数学考试排名
+      description: 数学考试排名
+    validations:
+      required: true
+
+  - type: input
+    id: eng-score
+    attributes:
+      label: 英语考试成绩
+      description: 英语考试成绩
+      placeholder: 150
+    validations:
+      required: true
+
+  - type: input
+    id: eng-rank
+    attributes:
+      label: 英语考试排名
+      description: 英语考试排名
+    validations:
+      required: true
+
+  - type: input
+    id: phy-score
+    attributes:
+      label: 物理考试成绩
+      description: 物理考试成绩
+      placeholder: 100
+    validations:
+      required: true
+
+  - type: input
+    id: phy-rank
+    attributes:
+      label: 物理考试排名
+      description: 物理考试排名
+    validations:
+      required: true
+
+  - type: input
+    id: cmt-score
+    attributes:
+      label: 化学考试成绩
+      description: 化学考试成绩
+      placeholder: 100
+    validations:
+      required: true
+
+  - type: input
+    id: cmt-rank
+    attributes:
+      label: 化学考试排名
+      description: 化学考试排名
+    validations:
+      required: true
+
+  - type: input
+    id: bio-score
+    attributes:
+      label: 生物考试成绩
+      description: 生物考试成绩
+      placeholder: 100
+    validations:
+      required: true
+
+  - type: input
+    id: bio-rank
+    attributes:
+      label: 生物考试排名
+      description: 生物考试排名
+    validations:
+      required: true
