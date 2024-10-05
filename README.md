@@ -41,7 +41,7 @@
 
 </div>
 
-你好！这里是 绫音 / 零音 / LyCecilion / Cecilion / LyCn。这些名称是等价的。是一般路过的陕西物化生方向高三生，17 周岁。是 INFP-T，是社恐，~~易燃易爆炸~~。二三次身份 (sc 和 LyCn) 完全正交。请以任一昵称 或 they/them/TA 指代绫音。
+你好！这里是 绫音 / 零音 / LyCecilion / Cecilion / LyCn。这些名称是等价的。是一般路过的陕西物化生方向高三生，17 周岁。是 INFP-T，是社恐，~~易燃易爆炸~~。二三次身份 (sc 和 LyCn) 完全正交。**基于互相理解和尊重的前提下，请以你习惯 和/或 喜欢的任意方式称呼绫音！**
 
 <!-- 主玩 Phigros / Phira / 律动轨迹(Rizline) / 中二节奏(CHUNITHM) /舞萌DX (maimaiDX)，玩过 Arcaea/BanG Dream! Girls Band Party!/Cytoid/Cytus II/Kalpa/Milthm/Orzmic/osu!/范式：起源/崩坏：星穹铁道/Minecraft。-->
 
