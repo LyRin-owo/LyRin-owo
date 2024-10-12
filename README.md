@@ -14,6 +14,6 @@
 
 [这里](https://zh.wikipedia.org/zh-cn/%E6%99%AE%E9%80%9A%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%8B%9B%E7%94%9F%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E8%80%83%E8%AF%95) 是零音接下来要做的。| [这里](https://www.uestc.edu.cn/) 是零音的心愿！| [这里](https://www.xidian.edu.cn/) 是零音的目标。
 
-![README 浏览量](https://komarev.com/ghpvc/?username=LyCecilion&color=red) [![Metrics](https://github.com/LyCecilion/LyCecilion/actions/workflows/metrics.yml/badge.svg?branch=main)](https://github.com/LyCecilion/LyCecilion/actions/workflows/metrics.yml) [![Waka Readme](https://github.com/LyCecilion/LyCecilion/actions/workflows/waka-readme.yml/badge.svg?branch=main)](https://github.com/LyCecilion/LyCecilion/actions/workflows/waka-readme.yml)
+![README 浏览量](https://komarev.com/ghpvc/?username=LyCecilion&color=red) [![Metrics](https://github.com/LyCecilion/LyCecilion/actions/workflows/metrics.yml/badge.svg?branch=main)](https://github.com/LyCecilion/LyCecilion/actions/workflows/metrics.yml)
 
 </div>
