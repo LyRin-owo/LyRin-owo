@@ -101,11 +101,11 @@
 
 ![LyCecilion's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LyCecilion)
 
-<img src="./assets/CHUNITHM.jpg">
+![CHUNITHM](./assets/CHUNITHM.jpg)
 
-<img src="./assets/maimaiDX.jpg">
+![maimaiDX](./assets/maimaiDX.jpg)
 
-<img src="github-metrics.svg">
+![GitHub Metrics](github-metrics.svg)
 
 </div>
 
