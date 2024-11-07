@@ -1,0 +1,26 @@
+<svg width="293" height="51.91" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <rect x="0" y="0" width="293" height="51.91" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0)">
+        <rect x="0" y="0" width="293" height="51.91" fill="#FFFFFF" />
+        <path
+            d="M0 25.9556C-4.66285e-15 11.6207 11.6406-9.30983e-15 25.9999-9.30983e-15L267 0C281.359-9.30983e-15 293 11.6207 293 25.9556L293 25.9556C293 40.2905 281.359 51.9113 267 51.9113L25.9999 51.9113C11.6406 51.9113 0 40.2905 0 25.9556Z"
+            fill="#000000" fill-rule="evenodd" fill-opacity="0.4" /><text fill="#5BCEFA"
+            font-family="HarmonyOS Sans SC,HarmonyOS Sans SC_MSFontService,sans-serif" font-weight="400" font-size="20"
+            transform="matrix(1 0 0 0.998294 23.3732 33)">距离</text><text fill="#F5A9B8"
+            font-family="HarmonyOS Sans SC,HarmonyOS Sans SC_MSFontService,sans-serif" font-weight="400" font-size="20"
+            transform="matrix(1 0 0 0.998294 68.784 33)">2025</text><text fill="#F5A9B8"
+            font-family="HarmonyOS Sans SC,HarmonyOS Sans SC_MSFontService,sans-serif" font-weight="400" font-size="20"
+            transform="matrix(1 0 0 0.998294 119.537 33)">高考</text><text fill="#5BCEFA"
+            font-family="HarmonyOS Sans SC,HarmonyOS Sans SC_MSFontService,sans-serif" font-weight="400" font-size="20"
+            transform="matrix(1 0 0 0.998294 164.948 33)">还有</text><text fill="#F5A9B8"
+            font-family="HarmonyOS Sans SC,HarmonyOS Sans SC_MSFontService,sans-serif" font-weight="400" font-size="20"
+            transform="matrix(1 0 0 0.998294 210.359 33)">248</text><text fill="#F5A9B8"
+            font-family="HarmonyOS Sans SC,HarmonyOS Sans SC_MSFontService,sans-serif" font-weight="400" font-size="20"
+            transform="matrix(1 0 0 0.998294 249.76 33)">天</text>
+    </g>
+</svg>
