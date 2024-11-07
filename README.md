@@ -308,18 +308,18 @@ Other      1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br>
 
-# <a href="https://github.com/InkCanvasForClass/InkCanvasForClass"><image src="https://avatars.githubusercontent.com/u/175419564?s=200&v=4" height="25"/> InkCanvasForClass</a>
+# <a href="https://github.com/InkCanvas/InkCanvasForClass"><image src="https://avatars.githubusercontent.com/u/175419564?s=200&v=4" height="25"/> InkCanvasForClass (Archive)</a>
 
-🏫🤓 神奇的 IslandClassClass 能将 Gnome 的美丽界面和舒适的批注体验融为一体这不神奇吗 👆🏫<br>[点击链接 GitHub 获取一个获取一个获取一个](https://github.com/InkCanvasForClass/InkCanvasForClass)
+🏫🤓 神奇的 IslandClassClass 能将 Gnome 的美丽界面和舒适的批注体验融为一体这不神奇吗 👆🏫<br>[点击链接 GitHub 获取一个获取一个获取一个](https://github.com/InkCanvas/InkCanvasForClass)
 
-<img src="https://github.com/InkCanvasForClass/InkCanvasForClass/raw/master/icc-github-illustrations.png" alt="InkCanvasForClass 广告位头图"><br>
+<img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc-github-illustrations.png" alt="InkCanvasForClass 广告位头图"><br>
 
-<!--开发者是「福福瑞瑞富富色色变态香香软软小男娘」-->
+<!--开发者是「福福瑞瑞富富色色变态香香软软可爱白丝小男娘」-->
 
 ✨ 一款开源易用的电子教鞭软件，专为课堂教学场景优化设计。是 WXRIW/Ink-Canvas 和 ChangSakura/Ink-Canvas 的 Reborn 版本，提供更频繁的更新和更优雅流畅的用户界面。 ✨
 
 <!--markdownlint-disable-next-line MD001-->
-#### | [🌐 GitHub](https://github.com/InkCanvasForClass/InkCanvasForClass) |
+#### | [🌐 GitHub](https://github.com/InkCanvas/InkCanvasForClass) |
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/InkCanvasForClass/InkCanvasForClass)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/InkCanvasForClass/InkCanvasForClass/latest)
