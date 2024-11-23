@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: LyCecilion
+          user: LyRin-owo
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
@@ -91,7 +91,7 @@ jobs:
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
           plugin_repositories: yes
-          plugin_repositories_featured: LyCecilion/Hazelita, ClassIsland/ClassIsland
+          plugin_repositories_featured: LyRin-owo/Hazelita, ClassIsland/ClassIsland
           plugin_repositories_order: featured, pinned, starred, random
           plugin_stargazers: yes
           plugin_stargazers_charts: yes

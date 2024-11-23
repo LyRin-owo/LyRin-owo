@@ -11,13 +11,13 @@
 </div>
 
 > [!TIP]
-> 这里是 [@一般通过绫音酱\_Cecilion](https://github.com/LyCecilion) 的自我介绍！
+> 这里是 [@零音LyRin-owo](https://github.com/LyRin-owo) 的自我介绍！
 
 > [!WARNING]
 >
 > 零音是随机上线的，所以你可能并不能得到一个 24h 所有平台秒回的零音。发给零音的消息过了好多天才被回复是很正常的情况。（小声）
 >
-> 出于众所周知的原因，QQ 很有可能吞掉你的消息。所以如确有要事，请直接由 [电子邮箱](mailto:LyCecilion@outlook.com) 联系零音！
+> 出于众所周知的原因，QQ 很有可能吞掉你的消息。所以如确有要事，请直接由 [电子邮箱](mailto:LyRin-owo@outlook.com) 联系零音！
 
 ---
 
@@ -29,11 +29,11 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&vCenter=true&width=435&lines=%E6%89%A7%E5%BF%B5%E5%92%8C%E7%94%B1%E4%B9%8B%E8%80%8C%E7%94%9F%E7%9A%84%E5%B9%BB%E6%A2%A6;%E6%BC%94%E6%9B%BF%E5%87%BA%E5%BA%9F%E5%A2%9F%E4%B8%AD%E7%9A%84%E5%B9%BD%E8%93%9D%E8%8A%B1%E6%9C%B5)
 
-![README 浏览量](https://komarev.com/ghpvc/?username=LyCecilion&color=red)
+![README 浏览量](https://komarev.com/ghpvc/?username=LyRin-owo&color=red)
 
 </div>
 
-你好！这里是 绫音 / (神楽坂) 零音 / LyCecilion / Cecilion / LyCn / Reion / KaguReion👋
+你好！这里是 零音LyRin-owo！👋
 
 零音是冷光中学的高三生，是 INFP-T，是社恐，~~是易燃易爆炸~~。
 
@@ -50,13 +50,9 @@
 
 ![哔哩哔哩头图分隔线 01](assets/division_bilibili_01.png)
 
-## 容器「彼方赴尘」、零音、sc 和 silentcloudburst 的一切
+## 等等……LyRin？LyCecilion？KaguReion？SEALchanPS？
 
 <!-- 感谢 GPT-4o 的措辞优化 -->
-
-零音归根结底只是一个灵魂层面的存在，需要一个现实世界的物质寄托才能得以活动。在 地球OL 中，零音通过加载到容器「彼方赴尘」中，利用容器对现实世界的兼容层与外界达成互动。
-
-容器「彼方赴尘」上存在共载灵魂「雾色深海_sc」，已经被虚拟化处理，运行在容器的虚拟层上。sc 拥有自己独立的社交网络账号等，但零音与 sc 公用一个容器，因此部分人会误认为零音和 sc 是同一个人。实际上，零音和 sc 是独立的，正交的。
 
 ![哔哩哔哩头图分隔线 02](assets/division_bilibili_02.png)
 
@@ -95,11 +91,11 @@
 
 ![零音最近在听](https://netease-recent-profile.vercel.app/?id=619384556&type=1&show_percent=1&column=2&number=10&title=%E9%9B%B6%E9%9F%B3%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&size=60)
 
-![零音的 GitHub 统计数据！](https://github-readme-stats.vercel.app/api?username=LyCecilion&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&custom_title=零音的%20GitHub%20统计数据！&number_format=long&theme=gradient)
+![零音的 GitHub 统计数据！](https://github-readme-stats.vercel.app/api?username=LyRin-owo&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&custom_title=零音的%20GitHub%20统计数据！&number_format=long&theme=gradient)
 
-![LyCecilion's Trophy](https://github-profile-trophy.vercel.app/?username=LyCecilion)
+![LyRin-owo's Trophy](https://github-profile-trophy.vercel.app/?username=LyRin-owo)
 
-![LyCecilion's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LyCecilion)
+![LyRin-owo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LyRin-owo)
 
 ![CHUNITHM](./assets/CHUNITHM.jpg)
 
@@ -124,7 +120,7 @@ Other      1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div align="center">
 
-[![Metrics](https://github.com/LyCecilion/LyCecilion/actions/workflows/metrics.yml/badge.svg?branch=main)](https://github.com/LyCecilion/LyCecilion/actions/workflows/metrics.yml) [![Waka Readme](https://github.com/LyCecilion/LyCecilion/actions/workflows/waka-readme.yml/badge.svg?branch=main)](https://github.com/LyCecilion/LyCecilion/actions/workflows/waka-readme.yml)
+[![Metrics](https://github.com/LyRin-owo/LyRin-owo/actions/workflows/metrics.yml/badge.svg?branch=main)](https://github.com/LyRin-owo/LyRin-owo/actions/workflows/metrics.yml) [![Waka Readme](https://github.com/LyRin-owo/LyRin-owo/actions/workflows/waka-readme.yml/badge.svg?branch=main)](https://github.com/LyRin-owo/LyRin-owo/actions/workflows/waka-readme.yml)
 
 </div>
 
@@ -158,7 +154,7 @@ Other      1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 - [x] 统计数据，包括 GitHub 上的活动和音乐 app 的统计数据等
 - [ ] 一些兴趣爱好（音游、运动）和个人的研究（毕竟也是一个对数学物理比较热爱的人）
 - [x] 我所有可爱的朋友们！（想用 README 记录下与自己每一位朋友的日常）
-- [ ] 我在用的设备，软件，和看好并支持的开源软件 ~~(awesome_lycecilion)(bushi)~~
+- [ ] 我在用的设备，软件，和看好并支持的开源软件 ~~(awesome_LyRin-owo)(bushi)~~
 - [ ] **高三学习考试成绩**（？）（怎么会有人在这里放这种东西啊喂！！！）
 - [ ] 🥵 ~~如果我减肥成功了（目前目标是 61.4kg），我会立刻把头图设成自己女装自拍~~ 😍
 
@@ -169,7 +165,7 @@ Other      1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ### 在做的项目
 
-[Hazelita](https://github.com/LyCecilion/Hazelita) - 适用于教学环境的 CAS 计算器。~~现在还在纠结究竟用 Python 还是 C#。（~~
+[Hazelita](https://github.com/LyRin-owo/Hazelita) - 适用于教学环境的 CAS 计算器。~~现在还在纠结究竟用 Python 还是 C#。（~~
 
 ### 个人 CODING 技能和目标
 
@@ -266,7 +262,7 @@ Other      1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![GitHub Release](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?include_prereleases)
 
 ![GitHub search hit counter](https://img.shields.io/github/search/ClassIsland/ClassIsland/DryIce)
-![GitHub search hit counter](https://img.shields.io/github/search/ClassIsland/ClassIsland/LyCecilion)
+![GitHub search hit counter](https://img.shields.io/github/search/ClassIsland/ClassIsland/LyRin-owo)
 
 ![All the contributors are the kawaiiest in the world](https://img.shields.io/badge/All%20the%20contributors-are%20the%20kawaiiest%20in%20the%20world-green)
 
