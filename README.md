@@ -208,18 +208,14 @@ No activity tracked
 
 </td></tr></table>
 
-![哔哩哔哩头图分隔线 06](assets/division_bilibili_06.png)
-
-## 尾声
-
 <div align="center">
+
+![零音的 GitHub Profile 头图](assets/division_grimheart.png)
 
 > 希望你活在不可替代的故事中。
 > ——谷川俊太郎《如果可以的话》
 
 很感谢你看到这里！ (\*/ω＼\*) 无论如何，祝愿你能够天天开心，永远幸福快乐下去！新年快乐——
-
-![零音的 GitHub Profile 头图](assets/division_grimheart.png)
 
 </div>
 
@@ -358,3 +354,20 @@ No activity tracked
 ![GitHub Metrics](github-metrics.svg)
 
 </div>
+
+```pgp
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZ5odKxYJKwYBBAHaRw8BAQdAvYRhZttI9mGxFGmxrcNuUvyUkeiOdBxCIBiR
+EJGW7Q20IUx5UmluLW93byA8THlSaW4tb3dvQG91dGxvb2suY29tPoiZBBMWCgBB
+FiEEbbXkiRchbku1cvpjQjORwZhLQCAFAmeaHSsCGwMFCQDP15UFCwkIBwICIgIG
+FQoJCAsCBBYCAwECHgcCF4AACgkQQjORwZhLQCAbtAEAyrcc6dMFrJ44DPId9QAh
+u/1BeYPtA39HoKWV4G/2f/sA/1lwh6MID5Mqr8neLHJOOoYkVe7WPvig9nOZ8PHn
+77sCuDgEZ5odKxIKKwYBBAGXVQEFAQEHQF89jfc34LHpRDPg1BK5edz93bH4zpjT
+9YcghlnV82JXAwEIB4h+BBgWCgAmFiEEbbXkiRchbku1cvpjQjORwZhLQCAFAmea
+HSsCGwwFCQDP15UACgkQQjORwZhLQCADewEAidW8ebbgRpmcypWitt9ETTudtQ+G
+mWeFHyrsaYcenroA/0f+5u/10NXTAAF/QnZ8CgYDsGJoAwpMkAeS87gTpGII
+=pRxy
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
