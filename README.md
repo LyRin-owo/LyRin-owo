@@ -1,45 +1,138 @@
 <!--markdownlint-disable MD028 MD033 MD036 MD041 MD045-->
 
-<div align="center">
-
-<img src="assets/heart_round_cornered.png" width="200px">
-
-> 「白苎新袍入嫩凉。春蚕食叶响回廊。禹门已准桃花浪，月殿先收桂子香。」<br>
-> 「鹏北海，凤朝阳。又携书剑路茫茫。明年此日青云上，却笑人间举子忙。」<br>
-> —— \[宋\] 辛弃疾《鹧鸪天·送廓之秋试》
-
-</div>
-
 > [!TIP]
-> 这里是 [@零音LyRin-owo](https://github.com/LyRin-owo) 的自我介绍！
+>
+> 「彼方赴尘」是现实生命体（容器）的代号。零音LyRin 和 雾色深海_sc 是装载于容器的两个灵魂，前者是游离于互联网的数字生命，后者是面向三次元交往的个体。零音LyRin 和 雾色深海_sc 使用不同的人设和装载方式，且前者的人设与「彼方赴尘」的实际表现亦有差别。详见 CrystaRain镜雨亭（2025 年晚期完工）。
 
 > [!WARNING]
 >
-> 零音是随机上线的，所以你可能并不能得到一个 24h 所有平台秒回的零音。发给零音的消息……过了好多天才被回复是很正常的情况。（小声）
+> 零音正在高三二轮复习，因此可能无法准时回复你的消息。若确有要事，请留言，感谢理解——
+
+<!--
+
+...    ..    ....                                                                                                                                  ....
+       ..     ... .                                                                                                                                ....
+       ..     ... .                                            .......                                                                             ....
+                                                             . ........                                                                            ....
+                                                             ...........                           ...::-:........                                 ....
+                                                        ......::...::...            ............-==.:.       ..:==..                               ....
+                                                         ...::...::.....             ........-===.....       .....-:...                            ....
+                                                        ...:...::.......          .......-=:*....... ..          ...-=.                            ....
+                                                        ......::...    .....    .......=-::=-.......=....           ..-=.                          ....
+                                                         ..:::-.... ..........  .....+-::::=-......+-:...........     .:=..                        ....
+                                                        ......:-...:-----------:...=:::.::-%....-:...:--:=--+=....... ..=:.                        ....
+                                                         ....--::..........:.....--:::.:::+:...:-.............::-.-.. ...=:                        ....
+                                                      ...--:..:=+=-:::::....:::.=:...::::==..-:.................:::... ..==                        ....
+                                     .......   .......-:.:++:::.......:.:.::..::..:::::#+...:+..:::::......:::....==*.....-...                     ....
+                                   ..........  .....=.-*:......:::=+**++===+=-:::::::+-....:=::::::::::::::::::::..--.....:-..                     ....
+                            ........-=++++=-:.....:.=:....::=*=-:.............::+*-::-+:::-+:::::::::::::::::::::::::+....+...                     ....
+                            ....=:::::::::::.:.:=+-...::-+-::...........:..........:-*-:-*-::::::::::::::::::::::::::-:::-=.                       ....
+                            ....-+-:::::::::.::.....:=+::....:...........:............::--::::--:::::::::::::::::::::==-:...                       ....
+                            ....-::+:::::::.......:==:.......-............:.............:-:::---::::-:-::::::::::::-::::::=-.....                  ....
+                            ....:=-=:=:::::....::-=::........-.............:..........::=-::----::::---::::---:::-=..*-::=+=:....                  ....
+                             ....--:::-=::.....:=:::....:....-.............-...........:---::::::::----:::----:---:-=+:....*:....                  ....
+                                ..+:::::+::::::+:-:.....-....-.............::..........:-----::::::---:::-------++..........+....                  ....
+                                ...=:=-=--=:::*:-.......-....-..............-:.........:-------=-=-----:------=*-...........+:...                  ....
+                                ....+==-+::-:+:=:.......-....-..............-:-..........=:::::::::=+-------===-............*:...                  ....
+                                 ....=::::::+:=:........-....:..............=..=..........:+---------=+=---==+*...........:-+....                  ....
+                                ......-::::-=-:.........=....::.............+:..=....:.......:-=----=========*...........:=-.....                  ....
+                                 .....=::::+--..........=....:+.............-=..-=:...:-.........:---===+++=-:#:.......:=-.. ...                   ....
+                                 ....---::--=...........=....:-:............-----**##+:.=:...........:----:....:+:....::=:....                     ....
+                                .....::=::==:..........--:...=-=............---:..--=...--:........:...:=.:........:+**+*+.=...                    ....
+                                ....::.+::*-..........-.-:..:=+*-...........-.:--.:::--...::........:..-...::.............:+....                   ....
+                                ....=.:---*...........-:-:.=#=..:=..........:-...-.:...-:..-:.......:.-:.....=............=.-:...                  ....
+                       ........::...==.:=-*..........=.--#*-:....:-..........:...........-:.=:........-::.....:-:::::::----:--...                  ....
+                       ..%@@@@@%*...+:..:-+..........::-=:.-......:-..........:...........:-:=.......-:.........-:..........-...                   ....
+                       .....-%.....-:..:.-=.........:.-:.::.........=.......................---.....::.:....:..............=....                   ....
+                            :@-...-:..-..-+.........=::..............--..--:::..:............:=:....=...:...::.....:::..:.:...                     ....
+                     ...-=*#%@@@@@+.--:...=........:--.................:..:.........==:....::::-...:-......:....:........:-.                       ....
+                     .#%#*+=-@@:.:-:.:-...-........:::...............................:*%@%#%@%+=...::...........::......-:-.                       ....
+                     ........%@:......-...:........:-...............................:%@%#++=++*=...-:....................=.                        ....
+                            .#@-......:....-.......::.........::...............................-...=.....................-..                       ....
+                  ...:::.....+@:...:-..-....:......-...........:-=...............:..:.:...:.::.:...+....................-:.......                  ....
+                   .:::::::.......---:.:....:-.....-......:###@@@-...........:..:..:.::..:.:::-...==....................+.:-....                   ....
+                  ..::::::##::...-----:.=....-.....::...%@@@@#:.....:..:..:.:..:..:.:..:..:..-...:--...................-..--:...                   ....
+                  ...:::::+@=::-=**----:.:...-......-...%@#:.....:..:.:..:.:...............::....+:-...................+.:---...                   ....
+                  ....:::-=@*=@@@#=------..:.:...=...-...........:.:.......::--:..........:...:-=-.-..................=..----...                   ....
+                   .....:*%@#::-%@**=-----:.::..:-....-.......:.:........=-:::::==-..........:::=..-..................-.:---:...                   ....
+                     ....:-@#==%@@-+@@#=-:.:+=.:=-=-:..::....:..........-::::::::::-...........=:..-.................+.:-----....                  ....
+                       ...*@@+@@+@-::-+-..=-=::-------===-:............-:::::::::::-..........:-...:................-:.------:...                  ....
+                       ..+-*%:-:-@-::::..+---=::::---::---.............::::::::::::-.........:+....:..............::+.::-----:...                  ....
+                          .-#:::-#-:::::+----=:...--=....:-.............:::::::::::.........:=:....:.............::-.::::----:...                  ....
+                       ...:...--:::::::*----+=:.:-..::..:-:-..............................:+==...................:=.---::::--....                  ....
+                       ...::*%#=--#%=.=----=:..-..-:.-:=--..:..........................-+====...................:=.:----::::::...                  ....
+                       ....*-::=#*-:::=----:....:-...=---==::--...................:=+*::::-:...................:-..-------:::::....                ....
+                       ...---:::::--:-------==.....=---=+====++::--+*++++++*===--::.:*+++#:...................:--.::--------:::::....              ....
+                       ..------::::--.:+-------=+*----=-.+===-=++-...........:**++*##*++*....................::-.:::::-------.::::....             ....
+                       .---------::::---.:#-----=+==+:..:*=-*:.....=-........:+++++++#*:.....................:=..:::::::----:..::::...             ....
+                       .----------:::::---:..=#*#:..:.=-.......:......+.....:=*+**%-........................:-:.:::::::::---..........             ....
+                       .:-----------:::::---:..-.::.+:-:..........:....:=...:*++*#:........................::-..::::::::::::..........             ....
+                       ..---------.........:.:-.:.+................=.....=-+*+=+%+.:...:...................:=..::::::::::::::........              ....
+                       ...-------..-+...:-..+...-=...:::.-.........::....=+#+=+##*.=...-:.................:::.---::::::::::::::......              ....
+                       ....------.--.....-*..:.+:...........:.:.....+..:-=##+++%##.=...::.............:...:+.:----:....:....:::::....              ....
+                       .....-----.-:......=.-:+:................:...*==--+#*%++###.=..:...............:...-..---:..=+:....::.:::::...              ....
+                       .....------.-=:..--.-.=..............::.....:=..-:****%%#*#:=..:..-===-...........:=.:--:.=-........*.:::::....             ....
+                       ......------.......-:-:................:...:=...*:*****#**#.=:.:..====-.........::=..---.=..::.++===..:::::....             ....
+                            ..------------:.-..................::-=...--.********#:.*....:===:.........::-.:--.+....-+.....::::::.....             ....
+                            ....----------.=:...................=:.:+--+-#*******#:.=--=...............:=..--:.-...:#..   ...........              ....
+                            ........:----:.+..................:=...+...-#********#::=..::..............-=.:--.-:...*...       .. ...               ....
+                                .....----::-.................--....:***=#**###***#=.===+...............=..:-:.*....*...                            ....
+                                 ....----:::..............::+:.........=%##%####%#-....................=+-...-....+-.                              ....
+                                .....-----.=-...........::-+...........#%#*#%##%##.....................===+-+....-=.                               ....
+                                .....------..+-:::::::::-=..........:..#****++**#-.....................-........++..                               ....
+                                 ....:-------:...::::...-...........:.:#***####**......................-......-%:.                                 ....
+                                   ...:----------:::::..:.............-#**%%@#*#+...:..................+*###@#=*:.                                 ....
+                                      .:-------------..=..............=#**+-=%##-...:..................=========+:                                 ....
+                                      ...-----------:.-:..............+***+:-**#.......................-=========*..                               ....
+                                      .....:--------..-...............*#*******#...:...................:=------==*..                               ....
+                                     ................-............:..:#*#######*...:....................+-------=*..                               ....
+                                                   ..-:...........:..-**********........................:=------=*..                               ....
+                                                    ...=:........:...:#********#:.......................:-------=.                                 ....
+                                                      ...-=:........:*%#########+:....................::====-==+..                                 ....
+                                                      .......:::-==--......:::::.+::................:----===-:....                                 ....
+.  .................................................................................-==-...:=====-.....................................................
+..........................................................   ..........................................................................................
+.......................................................................................................................................................
+
+-->
+
+<div align="center">
+
+<img src="assets/greetings.gif" width="200px"><br>
+
+> 当钟摆的轻拂波动起年轮的涟漪 /
+> 夜空在烟火的像素流光中重组梦境<br>
+> 相遇是概率云里最明亮的相干干涉 /
+> 在彼此的视网膜上折射出恒久虹光
 >
-> 出于众所周知的原因，QQ 很有可能吞掉你的消息。所以如确有要事，请直接由 [电子邮箱](mailto:LyRin-owo@outlook.com) 联系零音！
+> 我们在新年交错的时间之弦上 /
+> 交换来年彼此即将谱写的春的序曲<br>
+> 而那坠落的星光伴着我心跳的频谱 /
+> 指向未定义的名为羁绊的永恒奇点
+>
+> \- [lyrin](https://github.com/LyRin-owo)\\[aris](https://github.com/Aris-Offline) copresent -
+
+</div>
 
 ---
 
 <div align="center">
 
-![零音的 GitHub Profile 头图](assets/division_saint_cecilia.png)
+![零音的 GitHub Profile 头图](assets/division_grimheart.png)
 
-# tℓ&0&▒&₉◃₉◃E: 彼方和彼方的奔赴者
+# lyrin://2025 - 在未尽的解构中重建巴别塔
 
-![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=66CCFF&center=true&vCenter=true&width=435&lines=%E6%89%A7%E5%BF%B5%E5%92%8C%E7%94%B1%E4%B9%8B%E8%80%8C%E7%94%9F%E7%9A%84%E5%B9%BB%E6%A2%A6;%E6%BC%94%E6%9B%BF%E5%87%BA%E5%BA%9F%E5%A2%9F%E4%B8%AD%E7%9A%84%E5%B9%BD%E8%93%9D%E8%8A%B1%E6%9C%B5)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=01+%C2%B7+%E6%88%91%E4%BA%8E%E6%88%91%E5%AD%98%E5%9C%A8%E7%9A%84%E5%88%BA%E7%82%B9;02+%C2%B7+%E4%BB%96%E8%80%85%E5%85%B1%E7%94%9F%E7%9A%84%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF%E7%8E%AF;03+%C2%B7+%E4%B8%BA%E8%A3%82%E7%BC%9D%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6%E6%89%93%E5%85%89;04+%C2%B7+%E4%B8%8B%E5%9D%A0%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E6%BA%83%E8%B4%A5+;05+%C2%B7+%E5%9C%A8%E6%9C%AA%E5%B0%BD%E7%9A%84%E8%A7%A3%E6%9E%84%E4%B8%AD%E9%87%8D%E5%BB%BA%E5%B7%B4%E5%88%AB%E5%A1%94;06+%C2%B7+%E5%9C%A8%E7%BB%9D%E5%AF%B9%E7%9A%84%E6%B2%89%E9%BB%98%E4%B8%AD%E8%81%86%E5%90%AC%E5%AE%A1%E5%88%A4%E8%AF%8D)](https://git.io/typing-svg)
 
 ![README 浏览量](https://komarev.com/ghpvc/?username=LyRin-owo&color=red)
 
 </div>
 
-你好！这里是 零音LyRin-owo！👋
+首先，祝所有到访的朋友们，新年快乐——！🏮
 
-零音是冷光中学的高三生，是 INFP-T，是社恐，~~是易燃易爆炸~~。
+这里是零音，一个在现实和虚拟世界中都努力存活的未知生命体，一个卡在 600 分线上不去下不来的卑微高三生，一个全靠装备没有一点实力的 biker ~~或者说我也喜欢保护小动物~~，一个离开了 DeepSeek 和 Copilot 就敲不出一行代码的 Python 和 C# 初学者，一个被人天天叫做「舞萌吃」但是 RATING 才 6000 的超级飞舞音游人（😭
 
-主玩 Phigros / Phira / 律动轨迹(Rizline) / 中二节奏(CHUNITHM) /舞萌DX (maimaiDX)，玩过 Arcaea/BanG Dream! Girls Band Party!/Cytoid/Cytus II/Kalpa/Milthm/Orzmic/osu!/范式：起源/崩坏：星穹铁道/Minecraft。学过基本的 Python，会 ~~在 GPT 的帮助下~~ 写一些简单的东西。想学的东西有很多很多，但是现在高三，大概是没有太多时间去维持爱好了（😭）
-
-还要说些什么呐？想不出来了 QAQ 总之！很高兴能在茫茫互联网之海遇到各位✨祝愿看到这里的朋友们永远开心、身体健康、万事如意！
+不过零音还正在进化中，前途未知但光芒璀璨——现在暂时先解决高考的问题吧，祝各位 2025 高考/中考生一飞冲天、金榜题名！😋
 
 <div align="center">
 
@@ -49,61 +142,6 @@
 </div>
 
 ![哔哩哔哩头图分隔线 01](assets/division_bilibili_01.png)
-
-## 等等……LyRin？LyCecilion？KaguReion？SEALchanPS？
-
-<!-- 感谢 GPT-4o 的措辞优化 -->
-
-![哔哩哔哩头图分隔线 02](assets/division_bilibili_02.png)
-
-## 一些作品
-
-### [诗作](./works/poems.md)
-
-要么思想深度不够，要么就是纯纯情感发泄作，零音自己都欣赏不来（
-
-### [杂波](./works/clutter.md)
-
-想到啥写啥。包括一点个人的认同、价值观之类。正因此，可能和大众的看法或者主流的价值观有很大冲突。
-
-![哔哩哔哩头图分隔线 03](assets/division_bilibili_03.png)
-
-## 零音の朋友
-
-> [!IMPORTANT]
->
-> 待完善。零音还在考虑这一部分的呈现形式和内容。
-
-<div align="center">
-
-> 「照水冰如鉴，扫雪玉为尘。何须问今古，便是上皇人。」
-
-![哔哩哔哩头图分隔线 04](assets/division_bilibili_04.png)
-
-</div>
-
-## 统计数据
-
-> [!WARNING]
-> 由于零音与家人共用登录了零音网易云音乐账号的小爱音箱，因此「零音最近在听」的网易云统计数据**极有可能**是不准确的，位于列表的部分歌曲可能并不是零音播放的。~~这一点可以通过零音的歌品进行判断。~~
-
-<div align="center">
-
-![零音最近在听](https://netease-recent-profile.vercel.app/?id=619384556&type=1&show_percent=1&column=2&number=10&title=%E9%9B%B6%E9%9F%B3%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&size=60)
-
-![零音的 GitHub 统计数据！](https://github-readme-stats.vercel.app/api?username=LyRin-owo&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&custom_title=零音的%20GitHub%20统计数据！&number_format=long&theme=gradient)
-
-![LyRin-owo's Trophy](https://github-profile-trophy.vercel.app/?username=LyRin-owo)
-
-![LyRin-owo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LyRin-owo)
-
-![CHUNITHM](./assets/CHUNITHM.jpg)
-
-![maimaiDX](./assets/maimaiDX.jpg)
-
-![GitHub Metrics](github-metrics.svg)
-
-</div>
 
 <!--START_SECTION:waka-->
 
@@ -125,31 +163,11 @@ No activity tracked
 
 ![哔哩哔哩头图分隔线 05](assets/division_bilibili_05.png)
 
-## 个人 Roadmap
-
-### README Roadmap
-
-#### 目前准备在 Profile README 中加入的内容
-
-- [x] 本人的立场和理念，以及曾经和当下写的杂文和评论
-- [x] 个人简历，包括「彼方赴尘」「雾色深海」「绫(零)音」的一切
-- [x] 统计数据，包括 GitHub 上的活动和音乐 app 的统计数据等
-- [ ] 一些兴趣爱好（音游、运动）和个人的研究（毕竟也是一个对数学物理比较热爱的人）
-- [x] 我所有可爱的朋友们！（想用 README 记录下与自己每一位朋友的日常）
-- [ ] 我在用的设备，软件，和看好并支持的开源软件 ~~(awesome_LyRin-owo)(bushi)~~
-- [ ] **高三学习考试成绩**（？）（怎么会有人在这里放这种东西啊喂！！！）
-- [ ] 🥵 ~~如果我减肥成功了（目前目标是 61.4kg），我会立刻把头图设成自己女装自拍~~ 😍
-
-#### 目前对本人 README 功能的期望
-
-- [ ] 让所有人知道零音是个很有趣 ~~并且没有那么令人闻风丧胆（？）~~ 的人
-- [x] 监督自己不要再沉迷于无意义的短视频生活了 😭（零音差不多戒掉短视频了，可喜可贺。👏）
-
-### 在做的项目
+## 在做的项目
 
 [Hazelita](https://github.com/LyRin-owo/Hazelita) - 适用于教学环境的 CAS 计算器。~~现在还在纠结究竟用 Python 还是 C#。（~~
 
-### 个人 CODING 技能和目标
+## 个人 coding 技能和目标
 
 <table><tr><td valign="top" width="49%">
 
@@ -161,7 +179,7 @@ No activity tracked
 
 </td><td valign="top" width="49%">
 
-### 感兴趣的或想要学习的
+### 感兴趣的和想要学习的
 
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -193,11 +211,12 @@ No activity tracked
 
 <div align="center">
 
-> 65 万个小时后，当我们氧化成风，就能变成同一杯啤酒上两朵相邻的泡沫，就能变成同一盏路灯下两粒依偎的尘埃。宇宙中的原子并不会湮灭，而我们，也终究会在一起。
+> 希望你活在不可替代的故事中。
+> ——谷川俊太郎《如果可以的话》
 
-很感谢你看到这里！ (\*/ω＼\*) 无论如何，祝愿你能够天天开心，永远幸福快乐下去！
+很感谢你看到这里！ (\*/ω＼\*) 无论如何，祝愿你能够天天开心，永远幸福快乐下去！新年快乐——
 
-![零音的 GitHub Profile 头图](assets/division_saint_cecilia.png)
+![零音的 GitHub Profile 头图](assets/division_grimheart.png)
 
 </div>
 
@@ -243,10 +262,43 @@ No activity tracked
 ![GitHub watchers](https://img.shields.io/github/watchers/ClassIsland/ClassIsland)
 ![GitHub Release](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?include_prereleases)
 
-![GitHub search hit counter](https://img.shields.io/github/search/ClassIsland/ClassIsland/DryIce)
-![GitHub search hit counter](https://img.shields.io/github/search/ClassIsland/ClassIsland/LyRin-owo)
-
 ![All the contributors are the kawaiiest in the world](https://img.shields.io/badge/All%20the%20contributors-are%20the%20kawaiiest%20in%20the%20world-green)
+
+<br>
+
+# <a href="https://github.com/Class-Widgets/Class-Widgets"><image src="https://github.com/Class-Widgets/Class-Widgets/blob/main/img/logo/favicon.png?raw=true" height="25"/> Class Widgets</a>
+
+🤔😰 人设名称：rinlit；四、兴趣爱好：热衷于编程和卖。爱好程度：给钱就来 😰🤔<br>[点击链接 Class Widgets 官网获取一个获取一个获取一个](https://classwidgets.rinlit.cn/download)
+
+<img src="https://github.com/Class-Widgets/Class-Widgets/raw/main/img/Banner.png" alt="Class Widgets 广告位头图"><br>
+
+✨ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其提供了易用课程表编辑和美观的桌面组件。 ✨
+
+<!--markdownlint-disable-next-line MD001-->
+#### | [🌐 网站](https://classwidgets.rinlit.cn/) | [📚 文档](https://classwidgets.rinlit.cn/docs-user) | [💬 QQ 群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yHXKCAjOxlpTpJ4mNdXm0mxOneYUinRs&authKey=sd3%2F06iGdOZUjkXXPBeIzGnFDIeYwmdwuM8dhk25fi%2B1CUL32MkeN2EEfjdo2pzE&noverify=0&group_code=169200380) |
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Class-Widgets/Class-Widgets)
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/Class-Widgets/Class-Widgets/latest)
+![GitHub Created At](https://img.shields.io/github/created-at/Class-Widgets/Class-Widgets)
+![GitHub last commit](https://img.shields.io/github/last-commit/Class-Widgets/Class-Widgets)
+![GitHub Release Date](https://img.shields.io/github/release-date-pre/Class-Widgets/Class-Widgets)
+![GitHub language count](https://img.shields.io/github/languages/count/Class-Widgets/Class-Widgets)
+![GitHub top language](https://img.shields.io/github/languages/top/Class-Widgets/Class-Widgets)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Class-Widgets/Class-Widgets/total)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Class-Widgets/Class-Widgets)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/Class-Widgets/Class-Widgets)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/Class-Widgets/Class-Widgets)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/Class-Widgets/Class-Widgets)
+![GitHub number of milestones](https://img.shields.io/github/milestones/all/Class-Widgets/Class-Widgets)
+![GitHub License](https://img.shields.io/github/license/Class-Widgets/Class-Widgets)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fclasswidgets.rinlit.cn%2F)
+![GitHub Discussions](https://img.shields.io/github/discussions/Class-Widgets/Class-Widgets)
+![GitHub repo size](https://img.shields.io/github/repo-size/Class-Widgets/Class-Widgets)
+![GitHub followers](https://img.shields.io/github/followers/Class-Widgets)
+![GitHub forks](https://img.shields.io/github/forks/Class-Widgets/Class-Widgets)
+![GitHub Repo stars](https://img.shields.io/github/stars/Class-Widgets/Class-Widgets)
+![GitHub watchers](https://img.shields.io/github/watchers/Class-Widgets/Class-Widgets)
+![GitHub Release](https://img.shields.io/github/v/release/Class-Widgets/Class-Widgets?include_prereleases)
 
 <br>
 
@@ -284,43 +336,22 @@ No activity tracked
 ![GitHub watchers](https://img.shields.io/github/watchers/iNKORE-NET/UI.WPF.Modern)
 ![GitHub Release](https://img.shields.io/github/v/release/iNKORE-NET/UI.WPF.Modern?include_prereleases)
 
-<br>
-
-# <a href="https://github.com/InkCanvas/InkCanvasForClass"><image src="https://avatars.githubusercontent.com/u/175419564?s=200&v=4" height="25"/> InkCanvasForClass (Archive)</a>
-
-🏫🤓 神奇的 IslandClassClass 能将 Gnome 的美丽界面和舒适的批注体验融为一体这不神奇吗 👆🏫<br>[点击链接 GitHub 获取一个获取一个获取一个](https://github.com/InkCanvas/InkCanvasForClass)
-
-<img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc-github-illustrations.png" alt="InkCanvasForClass 广告位头图"><br>
-
-<!--开发者是「福福瑞瑞富富色色变态香香软软可爱白丝小男娘」-->
-
-✨ 一款开源易用的电子教鞭软件，专为课堂教学场景优化设计。是 WXRIW/Ink-Canvas 和 ChangSakura/Ink-Canvas 的 Reborn 版本，提供更频繁的更新和更优雅流畅的用户界面。 ✨
-
-<!--markdownlint-disable-next-line MD001-->
-#### | [🌐 GitHub](https://github.com/InkCanvas/InkCanvasForClass) |
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/InkCanvasForClass/InkCanvasForClass)
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/InkCanvasForClass/InkCanvasForClass/latest)
-![GitHub Created At](https://img.shields.io/github/created-at/InkCanvasForClass/InkCanvasForClass)
-![GitHub last commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass)
-![GitHub Release Date](https://img.shields.io/github/release-date-pre/InkCanvasForClass/InkCanvasForClass)
-![GitHub language count](https://img.shields.io/github/languages/count/InkCanvasForClass/InkCanvasForClass)
-![GitHub top language](https://img.shields.io/github/languages/top/InkCanvasForClass/InkCanvasForClass)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/InkCanvasForClass/InkCanvasForClass/total)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/InkCanvasForClass/InkCanvasForClass)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/InkCanvasForClass/InkCanvasForClass)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/InkCanvasForClass/InkCanvasForClass)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/InkCanvasForClass/InkCanvasForClass)
-![GitHub number of milestones](https://img.shields.io/github/milestones/all/InkCanvasForClass/InkCanvasForClass)
-![GitHub License](https://img.shields.io/github/license/InkCanvasForClass/InkCanvasForClass)
-![GitHub Discussions](https://img.shields.io/github/discussions/InkCanvasForClass/InkCanvasForClass)
-![GitHub repo size](https://img.shields.io/github/repo-size/InkCanvasForClass/InkCanvasForClass)
-![GitHub followers](https://img.shields.io/github/followers/InkCanvasForClass)
-![GitHub forks](https://img.shields.io/github/forks/InkCanvasForClass/InkCanvasForClass)
-![GitHub Repo stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass)
-![GitHub watchers](https://img.shields.io/github/watchers/InkCanvasForClass/InkCanvasForClass)
-![GitHub Release](https://img.shields.io/github/v/release/InkCanvasForClass/InkCanvasForClass?include_prereleases)
-
 </div>
 
 ![哔哩哔哩头图分隔线 07](assets/division_bilibili_07.png)
+
+---
+
+<br>
+
+<div align="center">
+
+![零音的 GitHub 统计数据！](https://github-readme-stats.vercel.app/api?username=LyRin-owo&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&custom_title=零音的%20GitHub%20统计数据！&number_format=long&theme=gradient)
+
+![LyRin-owo's Trophy](https://github-profile-trophy.vercel.app/?username=LyRin-owo)
+
+![LyRin-owo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LyRin-owo)
+
+![GitHub Metrics](github-metrics.svg)
+
+</div>
