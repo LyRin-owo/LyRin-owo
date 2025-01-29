@@ -124,6 +124,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=01+%C2%B7+%E6%88%91%E4%BA%8E%E6%88%91%E5%AD%98%E5%9C%A8%E7%9A%84%E5%88%BA%E7%82%B9;02+%C2%B7+%E4%BB%96%E8%80%85%E5%85%B1%E7%94%9F%E7%9A%84%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF%E7%8E%AF;03+%C2%B7+%E4%B8%BA%E8%A3%82%E7%BC%9D%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6%E6%89%93%E5%85%89;04+%C2%B7+%E4%B8%8B%E5%9D%A0%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E6%BA%83%E8%B4%A5+;05+%C2%B7+%E5%9C%A8%E6%9C%AA%E5%B0%BD%E7%9A%84%E8%A7%A3%E6%9E%84%E4%B8%AD%E9%87%8D%E5%BB%BA%E5%B7%B4%E5%88%AB%E5%A1%94;06+%C2%B7+%E5%9C%A8%E7%BB%9D%E5%AF%B9%E7%9A%84%E6%B2%89%E9%BB%98%E4%B8%AD%E8%81%86%E5%90%AC%E5%AE%A1%E5%88%A4%E8%AF%8D)](https://git.io/typing-svg)
 
+<!--markdownlint-disable-next-line MD001-->
+#### | [👀 视奸零音](https://pl.lyrin-owo.top) | [🗨️ Hazelita /「赴尘杯」交流群](https://qm.qq.com/q/CQ6KqJcnKg) | [🤔 和零音加 QQ 好友](https://qm.qq.com/q/Xk4LTDEUSW) |
+
 ![README 浏览量](https://komarev.com/ghpvc/?username=LyRin-owo&color=red)
 
 </div>
@@ -275,7 +278,7 @@ No activity tracked
 ✨ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其提供了易用课程表编辑和美观的桌面组件。 ✨
 
 <!--markdownlint-disable-next-line MD001-->
-#### | [🌐 网站](https://classwidgets.rinlit.cn/) | [📚 文档](https://classwidgets.rinlit.cn/docs-user) | [💬 QQ 群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yHXKCAjOxlpTpJ4mNdXm0mxOneYUinRs&authKey=sd3%2F06iGdOZUjkXXPBeIzGnFDIeYwmdwuM8dhk25fi%2B1CUL32MkeN2EEfjdo2pzE&noverify=0&group_code=169200380) |
+#### | [🌐 网站](https://classwidgets.rinlit.cn/) | [📚 文档](https://classwidgets.rinlit.cn/docs-user) | [💬 QQ 群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yHXKCAjOxlpTpJ4mNdXm0mxOneYUinRs&authKey=sd3%2F06iGdOZUjkXXPBeIzGnFDIeYwmdwuM8dhk25fi%2B1CUL32MkeN2EEfjdo2pzE&noverify=0&group_code=169200380) | [🥵 奇怪の频道](点击链接加入群聊【奇怪の频道】：https://qm.qq.com/q/il1QyXjbqM) | [😱 Discord](https://discord.gg/Y2spmDdr) |
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Class-Widgets/Class-Widgets)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/Class-Widgets/Class-Widgets/latest)
@@ -340,7 +343,7 @@ No activity tracked
 
 ![哔哩哔哩头图分隔线 07](assets/division_bilibili_07.png)
 
----
+## 统计数据
 
 <br>
 
