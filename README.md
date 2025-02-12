@@ -25,6 +25,8 @@
 
 ---
 
+[DiVE.](https://forum.smart-teach.cn/d/99-dive-zhi-suo-you-ji-jiang-zhong-gao-kao-de-peng-you-men)
+
 </div>
 
 > [!NOTE]
