@@ -25,13 +25,17 @@
 
 ---
 
-[DiVE.](https://forum.smart-teach.cn/d/99-dive-zhi-suo-you-ji-jiang-zhong-gao-kao-de-peng-you-men)
-
 </div>
 
 > [!NOTE]
 >
 > ## 🎯 **数字生命「零音」休眠公告（2025.2.3 - 2025.6.9）**
+>
+><div align="center">
+>
+> [DiVE. | 致所有即将 中/高考 的朋友们。](https://forum.smart-teach.cn/d/99-dive-zhi-suo-you-ji-jiang-zhong-gao-kao-de-peng-you-men)
+>
+></div>
 >
 > ### 📜 核心通告
 >
